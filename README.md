@@ -1,6 +1,8 @@
 # Common-Interview-questions-CodingRound
 Popular coding questions asked in coding rounds in the interview process.
-Qn1.
+
+
+Qn1. MinimumSwitching
     Consider a list(a[]) of '0's and '1's and is of Length 'N'. Find the minimum switches required to make all the elements/bits 1. Given that if the element at 'i'th position is switched(to 1) all other elements from 'i+1'th position are automatically switched(0-->1 and 1-->0).
     Test case 1:
     N=5
