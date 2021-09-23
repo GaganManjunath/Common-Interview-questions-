@@ -28,16 +28,13 @@ Qn1. MinimumSwitching
 Then, characters are written into a grid, whose rows and columns have the following constraints: floor(√54)<=row<=column<=ceil(√54)
         Test Case 1:
         s= if man was meant to stay on the ground god would have given us roots
-         After removing spaces, the string is √54 characters long.  is between 7 and 8, so it is written in the form of a grid with 7 rows and 8 columns.
-         
+         After removing spaces, the string is √54 characters long.  is between 7 and 8, so it is written in the form of a grid with 7 rows and 8 columns.         
          ifmanwas  
          meanttos          
          tayonthe  
          groundgo  
          dwouldha  
          vegivenu  
-         sroots
-         
+         sroots       
          The encoded message is obtained by displaying the characters of each column, with a space between column texts. The encoded message for the grid above is:
-
          imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau
