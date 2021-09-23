@@ -39,4 +39,4 @@ Qn1. MinimumSwitching
          
          The encoded message is obtained by displaying the characters of each column, with a space between column texts. The encoded message for the grid above is:
          
-         imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau
+         "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau"
