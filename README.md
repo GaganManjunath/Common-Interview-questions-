@@ -26,7 +26,7 @@ Qn1. MinimumSwitching
     
         An English text needs to be encrypted using the following encryption scheme. First, the spaces are removed from the text. Let 'L' be the length of this text.Then, characters are written into a grid, whose rows and columns have the following constraints: floor(√54)<=row<=column<=ceil(√54)
         Test Case 1:
-        s= if man was meant to stay on the ground god would have given us roots
+        s = "if man was meant to stay on the ground god would have given us roots"
          After removing spaces, the string is √54 characters long.  is between 7 and 8, so it is written in the form of a grid with 7 rows and 8 columns. 
          
          ifmanwas  
