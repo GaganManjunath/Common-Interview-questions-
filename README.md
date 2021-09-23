@@ -54,9 +54,9 @@ Qn1. MinimumSwitching
         quarter past seven
         
         Test case 2:
-        3
-        00
-        three o' clock
+        2
+        59
+        one minute to 3
         
         Test case 3:
         1
@@ -64,7 +64,7 @@ Qn1. MinimumSwitching
         half past 1
         
         Test case 4:
-        2
-        59
-        one minute to 3
+        3
+        00
+        three o' clock
 
