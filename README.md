@@ -40,3 +40,31 @@ Qn1. MinimumSwitching
          The encoded message is obtained by displaying the characters of each column, with a space between column texts. The encoded message for the grid above is:
          
          "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau"
+         
+         
+         
+ Qn3. Time in English
+ 
+        LANGUAGE : C++
+        Take input of hours and minutes and print the time in english. The constraints are that if the minutes are less than 30, Time should be in the format "x minutes past y", else the format is "x minutes to y", also if minutes are 15 or 45 the format is "quarter past x" and "quarter to x+1" respectively. The output is gramatically sensitive too i.e if minutes is 1, output must have "minute" and not "minutes".
+        
+        Test case 1:
+        7
+        15 
+        quarter past seven
+        
+        Test case 2:
+        3
+        00
+        three o' clock
+        
+        Test case 3:
+        1
+        30
+        half past 1
+        
+        Test case 4:
+        2
+        59
+        one minute to 3
+
