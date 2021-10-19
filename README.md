@@ -87,3 +87,19 @@ Qn4. Hexadecimal numerals
     6
     
 
+
+
+Qn5. Pascals Triangle
+    
+    Language: C++
+    Given an integer representing the row in the pascal's triangle, print out the elements of the row. Using recursion to approach the problem is prefered.
+    Pascal's triangle:
+            1
+           1 1
+          1 2 1
+         1 3 3 1
+        1 4 6 4 1
+    Test case 1:
+    input: 3
+    output: [1,3,3,1]
+    
