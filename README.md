@@ -103,3 +103,21 @@ Qn5. Pascals Triangle
     input: 3
     output: [1,3,3,1]
     
+    
+
+Qn6. Lexicographically max string.
+    
+    Language: Python
+    Given a string of size N having characters 'a', 'b', 'c', 'd'. After swapping any character, obtain a proper string (string having equal number of characters) and return a       lexicographically maximum possible proper string.
+    
+    Test case1:
+    8
+    ababaaba
+    output: ddcbcaba
+    
+    Where first line has an integer N which is the length of the improper input string. The output shows a proper string with equal character counts and also lexicographically       maximum.
+    
+    Test case1:
+    8
+    aacacbbc
+    output: dadacbbc
